@@ -1,0 +1,22 @@
+{
+  "name": "bos-node-learner",
+  "version": "1.0.0",
+  "description": "Step by step study of Wes Bos Learning Node course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snirp/bos-node-learner.git"
+  },
+  "author": "Roy Prins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snirp/bos-node-learner/issues"
+  },
+  "homepage": "https://github.com/snirp/bos-node-learner#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
